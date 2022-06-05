@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krittamet </h1> 
 
-<h3 align="center">A passionate backend developer from Thailand </h3>
+<h3 align="center">A passionate backend developer </h3>
 
 <p align="right"> <img src="https://www.codewars.com/users/kmet-k/badges/micro" alt="codewar" /> </p>
 
