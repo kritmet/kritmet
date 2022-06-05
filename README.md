@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **Go**
-
 - 📫 How to reach me **kritmet.w@gmail.com**
 
 <h3 align="left">Languages </h3>
