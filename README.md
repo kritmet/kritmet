@@ -4,7 +4,6 @@
 
 <p align="right"> <img src="https://www.codewars.com/users/kmet-k/badges/micro" alt="codewar" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krittamet.W&label=Profile%20views&color=fb00ff&style=flat" alt="kmet-k" /> </p>
 
 - 🌱 I’m currently learning **Vue.js**
 
