@@ -5,8 +5,6 @@
 <p align="right"> <img src="https://www.codewars.com/users/kmet-k/badges/micro" alt="codewar" /> </p>
 
 
-- 🌱 I’m currently learning **Vue.js**
-
 - 📫 How to reach me **kritmet.w@gmail.com**
 
 <h3 align="left">Languages </h3>
