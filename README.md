@@ -17,26 +17,7 @@
 </div>
 
 
-<h2 align="left">💼 Social</h2>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/krittamet-wongsakornpiriya-843752206/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/krittamet.wo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/kmet.k/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="kritmet.w@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 
 <br>
 <h2 align="left">💻 Skills</h2>
@@ -84,12 +65,31 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritmet&show_icons=true&theme=dark&count_private=true)
 
 </div>  
+<h2 align="left">💼 Social</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/krittamet-wongsakornpiriya-843752206/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/krittamet.wo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/kmet.k/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="kritmet.w@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 <br/>  
 
 ###
-<hr>
-<br clear="both">
+<hr/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/kritmet/kritmet/output/snake.svg" alt="Snake animation" />
 </div>
