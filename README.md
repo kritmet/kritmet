@@ -66,6 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kritmet/kritmet/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kritmet/kritmet/output/snake.svg" alt="Snake animation" />
 
 ###
