@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! My name is Krittamet</h1>
-<img align="right"  src="https://www.codewars.com/users/kritmet/badges/small" alt="codewar" /> 
+<img align="right"  src="https://www.codewars.com/users/kritmet/badges/micro" alt="codewar" /> 
 
 ###
 
