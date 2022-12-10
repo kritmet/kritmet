@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋! My name is Krittamet</h1>
+<img align="right"  src="https://www.codewars.com/users/kritmet/badges/small" alt="codewar" /> 
 
 ###
+
 
 ### I'm Krittamet, a full-time backend developer 👨‍💻</div>  
 <img align="right" height="210" src="https://kellyfoulk.herokuapp.com/static/me_coding.gif"  />
@@ -15,9 +17,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31j4m7x7spcojafshdpq2esqylbe&count=3)
 
 </div>
-
-
-
 
 <br>
 <h2 align="left">💻 Skills</h2>
